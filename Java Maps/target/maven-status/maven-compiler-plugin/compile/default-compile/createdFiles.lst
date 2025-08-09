@@ -1,0 +1,8 @@
+com\ugmaps\repository\LocationRepository.class
+com\ugmaps\controller\LocationController.class
+com\ugmaps\UgCampusNavigatorApplication.class
+com\ugmaps\model\LocationType.class
+com\ugmaps\controller\WebController.class
+com\ugmaps\service\LocationService.class
+com\ugmaps\model\Location.class
+com\ugmaps\config\DataInitializer.class
